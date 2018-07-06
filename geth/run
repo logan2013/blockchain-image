@@ -1,0 +1,1 @@
+docker run -tid --name geth-dev -v /data/blockchain/geth:/data -p 8545:8545 -p 30303:30303 pupudaye/geth-dev

@@ -1,0 +1,1 @@
+docker run -tid --name omnicore-dev -p 19001:19001 -v /data/blockchain/omni:/data  pupudaye/omnicore-dev -txindex

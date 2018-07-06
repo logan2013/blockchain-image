@@ -1,0 +1,1 @@
+docker run -tid --name bitcoin-testnet-dev -p 18333:18333 -p 8332:8332 -v /data/blockchain/bitcoin:/root/data  pupudaye/bitcoin-testnet-box
